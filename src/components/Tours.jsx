@@ -15,7 +15,7 @@ const Tours = ({tours,removeTour}) => {
         <div className='flex justify-center items-center flex-wrap max-w-7xl mx-auto my-0 '>
             {
                 tours.map((data)=>{
-                    return <ToursCard {...data} removeTour={removeTour}></ToursCard>
+                    return <ToursCard key={data.id} {...data} removeTour={removeTour}></ToursCard>
                 })
             }
         </div>
