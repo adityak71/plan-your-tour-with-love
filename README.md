@@ -1,22 +1,22 @@
-# Plan With Love
+# ✈️ Plan With Love
 
-<div align="center">
+<p align="center">
+  <strong>
+    A beautiful React travel planner built to explore destinations,
+    inspect trip details, and remove tours you are not interested in.
+  </strong>
+</p>
 
-	<h1>Plan With Love</h1>
-	<p><strong>A beautiful React travel planner built to explore destinations, inspect trip details, and remove tours you are not interested in.</strong></p>
+<p align="center">
+  <a href="https://github.com/adityak71/plan-your-tour-with-love">GitHub Repo</a> •
+  <a href="https://plan-your-tour-with-love.vercel.app">Live Demo</a>
+</p>
 
-	<p>
-		<a href="https://github.com/adityak71/plan-your-tour-with-love">GitHub Repo</a> |
-		<a href="https://i-will-update-url.com">Live Demo</a>
-	</p>
-
-	<p>
-		<img src="https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React 19" />
-		<img src="https://img.shields.io/badge/Vite-8-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-		<img src="https://img.shields.io/badge/Tailwind_CSS-4-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS 4" />
-	</p>
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/Vite-8-646CFF?style=for-the-badge&logo=vite&logoColor=white">
+  <img src="https://img.shields.io/badge/TailwindCSS-4-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white">
+</p>
 
 ---
 
